@@ -1,7 +1,5 @@
 # Deriv Trading Bot
-Log in log out 
-Copy trading AI SIGNALS 
-free signals
+
 A self-hosted, visual trading-bot builder on the Deriv WebSocket API. Drag-and-drop
 strategy building with Blockly, an interactive SmartCharts chart, automated strategy
 execution, and dashboard/tutorials.
